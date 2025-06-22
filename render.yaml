@@ -1,8 +1,6 @@
 services:
   - type: web
-    name: sentiment-fastapi-backend
-    runtime: python
-    buildCommand: ""
-    startCommand: uvicorn main:app --host 0.0.0.0 --port 10000
+    name: sentiment-backend
+    env: docker
+    image: madhu0101/sentiment-api:latest
     plan: free
-    autoDeploy: true
