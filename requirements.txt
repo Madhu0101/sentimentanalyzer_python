@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+nltk
+pymongo
+python-multipart
+pydantic
+python-jose
+passlib

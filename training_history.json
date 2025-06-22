@@ -1,0 +1,93 @@
+[
+  {
+    "text": "I love this product! It's amazing and works perfectly.",
+    "label": "positive",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628617",
+    "confidence": null
+  },
+  {
+    "text": "This is the worst service I've ever experienced.",
+    "label": "negative",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628651",
+    "confidence": null
+  },
+  {
+    "text": "The product is okay, nothing special but does the job.",
+    "label": "neutral",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628664",
+    "confidence": null
+  },
+  {
+    "text": "Absolutely fantastic! Exceeded my expectations.",
+    "label": "positive",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628672",
+    "confidence": null
+  },
+  {
+    "text": "Terrible quality, waste of money.",
+    "label": "negative",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628682",
+    "confidence": null
+  },
+  {
+    "text": "Good value for money, satisfied with purchase.",
+    "label": "positive",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628690",
+    "confidence": null
+  },
+  {
+    "text": "Outstanding customer service, very helpful staff.",
+    "label": "positive",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628698",
+    "confidence": null
+  },
+  {
+    "text": "Product broke after one day, very disappointed.",
+    "label": "negative",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628707",
+    "confidence": null
+  },
+  {
+    "text": "Average product, could be better but acceptable.",
+    "label": "neutral",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628715",
+    "confidence": null
+  },
+  {
+    "text": "Excellent quality and fast delivery!",
+    "label": "positive",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628724",
+    "confidence": null
+  },
+  {
+    "text": "Poor communication from support team.",
+    "label": "negative",
+    "source": "sample_data",
+    "timestamp": "2025-06-11T00:21:22.628730",
+    "confidence": null
+  },
+  {
+    "text": "Absolutely love this product! The quality is outstanding and customer service was incredibly helpful. Would definitely recommend to others!\n\n\n",
+    "label": "positive",
+    "source": "user_feedback",
+    "timestamp": "2025-06-13T16:48:05.586646",
+    "predicted_sentiment": "positive"
+  },
+  {
+    "text": "Worst purchase ever! The product broke after just one week. Complete waste of money!",
+    "label": "negative",
+    "source": "user_feedback",
+    "timestamp": "2025-06-13T16:48:37.254952",
+    "predicted_sentiment": "negative"
+  }
+]
