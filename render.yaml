@@ -2,5 +2,5 @@ services:
   - type: web
     name: sentiment-backend
     env: docker
-    image: madhu0101/sentiment-api:latest
+    image: madhu0101/sentimentanalyser_dockerpython:latest
     plan: free
